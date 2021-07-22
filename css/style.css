@@ -1,0 +1,136 @@
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+
+    font-family: 'Abel', sans-serif;
+    position: relative;
+
+}
+h1,h2,h3{
+    font-family: 'Arimo', sans-serif;
+}
+p{
+    font-family: 'Festive', cursive;
+}
+.head{
+    position: relative;
+
+    text-align: center;
+    width: 600px;
+    margin: auto;
+   
+    margin-top: 50px;;
+    padding: 50px;;
+}
+.top-c{
+    position: absolute;
+    right: 0px;
+    top:0px;
+
+}
+.bottom-c{
+    position: absolute;
+    bottom: 350px;
+    left: 0px;;
+
+}
+.my-photo{
+    border-radius: 40000px;
+
+}
+.gym{
+    border-radius: 404000px;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    background-color: antiquewhite;
+}
+.game{
+    border-radius: 404000px;
+    width:200px;
+    height: 200px; 
+    float: left;
+    margin-right: 30px;
+    position: relative;
+}
+
+h1{
+    font-size: 50px;
+}
+.paragraph{
+    font-size: 20px;
+}
+h1,h2{
+    color:#66BFBF
+}
+a , h3 {
+    color:#11999E
+}
+h3{
+    font-weight: normal;
+}
+.skill-row{
+    width:50%;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 200px;
+}
+.skills{
+    margin:50px 0px 50px 0px;
+}
+#gym{
+display: block;
+}
+p{
+ margin: 40px 0 0 0;
+ list-style: 2; 
+}
+hr{
+    border: dotted #EAF6F6 12px;
+    border-bottom: none;
+    width: 60px;
+    margin: 50px auto;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  .bottom-container{
+      background-color: #66bfbf;
+      padding: 30px ;
+  }
+  .bottom-container a{
+      color:white;
+      text-decoration: none;
+      padding-left: 30px;
+  }
+  a:hover{
+      color:teal;
+  }
+  .bottom-container p{
+    color:teal;
+  }
+
